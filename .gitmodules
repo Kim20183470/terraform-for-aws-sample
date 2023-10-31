@@ -1,0 +1,3 @@
+[submodule "aws_vpc"]
+	path = aws_vpc
+	url = https://github.com/Kim20183470/aws_vpc.git
