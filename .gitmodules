@@ -4,3 +4,6 @@
 [submodule "aws_subnet"]
 	path = aws_subnet
 	url = https://github.com/Kim20183470/aws_subnet.git
+[submodule "aws_keypair"]
+	path = aws_keypair
+	url = https://github.com/Kim20183470/aws_keypair.git
