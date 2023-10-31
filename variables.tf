@@ -11,11 +11,11 @@ variable "aws_region" {
 variable "aws_access_key" {
   type        = string
   description = "Please input your [AWS Access Key]"
-  sensitive = true
+  sensitive   = true
 }
 
 variable "aws_secret_key" {
   type        = string
   description = "Please input your [AWS Secret Key]"
-  sensitive = true
+  sensitive   = true
 }
