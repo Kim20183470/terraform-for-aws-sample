@@ -7,3 +7,6 @@
 [submodule "aws_keypair"]
 	path = aws_keypair
 	url = https://github.com/Kim20183470/aws_keypair.git
+[submodule "aws_ec2"]
+	path = aws_ec2
+	url = https://github.com/Kim20183470/aws_ec2.git
